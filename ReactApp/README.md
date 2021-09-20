@@ -11,7 +11,7 @@ From your command line:
 git clone https://github.com/sahitpj/electron-react-python.git
 
 # Go into the repository
-cd electron-react-python
+cd ChessAI\ReactApp
 
 # Install dependencies
 npm i
